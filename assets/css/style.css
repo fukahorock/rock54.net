@@ -1,6 +1,6 @@
 ---
 ---
-@import  "{{ site.theme }}";
+@import  "";
 
 @media screen and (min-width: 64em)
 .page-header {
