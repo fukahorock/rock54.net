@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: rock54.net
+description: まんが家フカホリユウキのWebサイト
+
+show_downloads: true
+google_analytics:
+
+locale: "ja-JP"
