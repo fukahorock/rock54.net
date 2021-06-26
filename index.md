@@ -1,6 +1,3 @@
-# rock54.net
-まんが家・フカホリユウキのWebサイト。
-
 ## 関連リンク
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
 - [Facebokページ](https://www.facebook.com/fukahorock54) 広告まんが用。
