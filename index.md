@@ -1,4 +1,5 @@
 ## 関連リンク
+問い合わせはTwitter以下のリンクからどうぞ。メールでの問い合わせは受け付けていません。
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
 - [Facebokページ](https://www.facebook.com/fukahorock54) 広告まんが用。
 - [pixiv](https://www.pixiv.net/users/850844) Twitterで描いたイラストやファンアートまとめ。
