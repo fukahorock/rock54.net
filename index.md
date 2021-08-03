@@ -1,3 +1,6 @@
+#rock54.net
+まんが家フカホリユウキのWebサイト
+
 ## 関連リンク
 問い合わせはTwitter以下のリンクからどうぞ。メールでの問い合わせは受け付けていません。
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
