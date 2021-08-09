@@ -4,11 +4,13 @@
 ## 関連リンク
 問い合わせはTwitter以下のリンクからどうぞ。メールでの問い合わせは受け付けていません。
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
-- [Facebokページ](https://www.facebook.com/fukahorock54) 広告まんが用。
 - [pixiv](https://www.pixiv.net/users/850844) Twitterで描いたイラストやファンアートまとめ。
 - [PIXIV FANBOX](https://fukahorock.fanbox.cc/) たまに日記を書きます。支援系はこちら。
 
 - - -
+
+![【ターゲットに訴求する広告漫画なら】広告漫画家フカホリユウキの広告マンガ制作案内](https://rock54website.s3.ap-northeast-1.amazonaws.com/admanga_banner.jpg "【ターゲットに訴求する広告漫画なら】広告漫画家フカホリユウキの広告マンガ制作案内")  
+
 
 ## 最近の活動（商業まんが）
 カットなども描いてます。ここではまんが作品のみ掲載。
