@@ -14,6 +14,11 @@
 ## 最近の活動（商業まんが）
 カットなども描いてます。ここではまんが作品のみ掲載。
 
+### 「ハッキング!! #HACK_KING」掲載されます。
+2021年8月30日発売 別冊コロコロコミックSpecial 10月号（ミラコロコミック号）  
+[![ハッキング!! #HACK_KING](https://rock54website.s3.ap-northeast-1.amazonaws.com/news/202108_miracoro_king.jpg "ハッキング!! #HACK_KING")](https://amzn.to/3DiYK2O)
+
+
 ### 「ハッカー刑事 ハックくん」掲載されます。
 2020年12月30日発売 別冊コロコロコミックSpecial 2月号  
 ![ハッカー刑事 ハックくん](https://rock54website.s3.ap-northeast-1.amazonaws.com/news/202012_betsucoro_hack.jpg "ハッカー刑事 ハックくん")  
