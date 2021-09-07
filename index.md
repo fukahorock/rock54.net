@@ -1,8 +1,14 @@
 #rock54.net
+
 まんが家フカホリユウキのWebサイト
 
+## お問合せ先
+お仕事のお問い合わせはこちらから。
+[fukahorock@gmail.com](mailto:fukahorock@gmail.com)
+
+お仕事以外の応援メッセージやコメントなどなどは以下のリンクからお願いします！
+
 ## 関連リンク
-問い合わせはTwitter以下のリンクからどうぞ。メールでの問い合わせは受け付けていません。
 - [Twitterアカウント](https://twitter.com/fukahorock) ふだんのつぶやき。
 - [pixiv](https://www.pixiv.net/users/850844) Twitterで描いたイラストやファンアートまとめ。
 - [PIXIV FANBOX](https://fukahorock.fanbox.cc/) たまに日記を書きます。支援系はこちら。
