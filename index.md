@@ -11,7 +11,7 @@
 - - -
 
 ## 商業まんが・趣味まんが
-- [rock54 まんが家・フカホリユウキの公式サイト](/fukahorock.md) 
+- [rock54 まんが家・フカホリユウキの公式サイト](https://fukahorock.rock54.net/) 
 
 - - -
 
